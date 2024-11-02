@@ -1,9 +1,14 @@
 <html>
+    <head>
+        <link rel = "stylesheet" href= "main.css">
+    </head>
     <title>Cats</title>
+    <<iframe width="560" height="315" src="https://www.youtube.com/embed/kPa7bsKwL-c?si=hlUgvdul2v7Q8ZIj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <h1 style= "color:#bd9adf; text-align: center;">Things about me</h1>
-    <h2>By Lesly the coolest person</h2>
-    <p>Cats are so cool. <br> I love <br> them very much.</p>
+    <h2 style="color: yellow">By Lesly the coolest person</h2>
+    <p id="mainPara">Cats are so cool. <br> I love <br> them very much.</p>
     <a href="https://github.com/areyouokayann11/annsFirstWebsite">See my github</a> <br>
+    <h2>Let Go!</h2>
     <ol>
         <li>They are cool</li>
         <li>They are soft </li>
