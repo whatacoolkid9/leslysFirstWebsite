@@ -1,7 +1,33 @@
-h2{
-    color: rgba(204, 147, 226, 0.863)
+.navbar{
+    background-color: pink;
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    text-align: center;
 }
 
-#mainPara{
-    font-style: italic;
+.navbar li{
+    list-style-type: none;
+    display: inline;
+}
+
+.navbar a{
+    font-size: 38px;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;
+}
+
+
+.navbar a:hover{
+    background-color: white;
+    color: pink;
+}
+
+.Welcome{
+    background-color: rgb(255, 231, 235);
+    color:white;
+    padding: 100px 100px;
+    text-align:center;
 }
