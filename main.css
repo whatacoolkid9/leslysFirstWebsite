@@ -19,15 +19,54 @@
     color: white;
 }
 
-
 .navbar a:hover{
     background-color: white;
     color: pink;
 }
 
+body{
+    margin:0;
+    padding:0;
+}
+
 .Welcome{
-    background-color: rgb(255, 231, 235);
-    color:white;
-    padding: 100px 100px;
+    background-color: white;
+    color:pink;
+    padding: 10% 5%;
+    text-align:center;
+    display:box;
+}
+
+.contentA{
+    background-color: pink;
+    padding: 10% 5%;
+    display:flex;
     text-align:center;
 }
+
+.contentA img{
+    width: 80%;
+    float: left;
+}
+
+.contentA p {
+    font-size: 3vw;
+    font-size: 450%;
+    color: white
+}
+
+.cats{
+    background-color: pink;
+    padding: 10% 5%;
+    display:flex;
+    text-align:center;
+}
+
+.Dogs{
+    background-color: rgba(0, 0, 0, 0.534);
+    padding: 10% 5%;
+    display:flex;
+    text-align:center;
+    color:white;
+}
+
